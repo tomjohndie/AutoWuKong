@@ -1,3 +1,7 @@
+# 看B站视频for 悟空的日常 这位大佬的项目项目地址是下面的位置
+[![GitHub](https://github.com/wukongdaily/AutoBuildImmortalWrt)]
+
+
 # AutoBuildImmortalWrt
 [![GitHub](https://img.shields.io/github/license/wukongdaily/AutoBuildImmortalWrt.svg?label=LICENSE&logo=github&logoColor=%20)](https://github.com/wukongdaily/AutoBuildImmortalWrt/blob/master/LICENSE)
 ![GitHub Stars](https://img.shields.io/github/stars/wukongdaily/AutoBuildImmortalWrt.svg?style=flat&logo=appveyor&label=Stars&logo=github)
